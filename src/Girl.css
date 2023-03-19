@@ -1,0 +1,16 @@
+.pic{
+    margin-left: 38%;
+    margin-top: 14%;
+    /* height: 250px; */
+    /* width: 500px; */
+}
+.learn{
+    color: blue;
+}
+.share{
+    color: blue;
+    margin-left: 10%;
+}
+.card{
+    width: 500px;
+}
